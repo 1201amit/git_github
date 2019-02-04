@@ -24,7 +24,6 @@ int main()
 	int multiplicant = 9999;
 	int multiplier = 9999;
 	int num_digit = 4;
-
 	int output = karatsubaMultiplication(multiplicant, multiplier, num_digit);
 	printf("%d\n",output );
 	return 0;
